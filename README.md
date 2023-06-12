@@ -1,4 +1,4 @@
-# Hello, I'm Pars K. 👋
+# Hello, I'm Pars. 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ParsK90&color=brightgreen)
 
